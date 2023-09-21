@@ -1,6 +1,3 @@
-# Márcio Belloni
-
-<hr>
 
 ## Olá, sou o prof. Belloni. Seja bem-vindo!
 
@@ -26,29 +23,13 @@ Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na
 <h2 style = "color: red">Linguagens</h2>
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
-<progress value="80" max="100" style="height:30px">80%</progress>
-
 ![PHP](https://img.shields.io/badge/PHP-Blue?style=for-the-badge)
-<progress value="80" max="100" style="height:30px">80%</progress>
-
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-<progress value="70" max="100" style="height:30px">70%</progress>
-
 ![C#](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=c#%2B%2B&logoColor=00599C)
-<progress value="40" max="100" style="height:30px">40%</progress>
-
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-<progress value="70" max="100" style="height:30px">70%</progress>
-
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-<progress value="50" max="100" style="height:30px">50%</progress>
-
 ![R](https://img.shields.io/badge/R-R_Lang-black?style=for-the-badge)
-<progress value="60" max="100" style="height:30px">60%</progress>
-
 ![Matlab](https://img.shields.io/badge/M-Matlab-black?style=for-the-badge)
-<progress value="50" max="100" style="height:30px">50%</progress>
-
 
 <hr>
 <h2 style = "color: red">Segue o Status no GitHub</h2>
