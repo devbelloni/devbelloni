@@ -1,16 +1,11 @@
 
 ## Olá, sou o prof. Belloni. Seja bem-vindo!
-
-
+<hr>
 Sou um apaixonado pela computação desde a adolescência, mas à 6 anos venho atuando profissionalmente na área, após me formar em engenharia elétrica. 
 
 Sou professor nos cursos de engenharia e TI na Universidade de Guarulhos e no Centro Universitário Eniac. Produzo conteúdo na área do TI e eletrônica para a Unicsul, Unisa e VG Educacional. 
 
 Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na área tecnológica, formado em Engenharia Elétrica, Matemática e especialista em gestão de projetos.
-
-
-
-
 
 <hr>
 <h2 style = "color: red">Entre em contato</h2>
@@ -19,7 +14,6 @@ Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/prof.belloni/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/marcio-belloni/)
 [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://www.github.com/devbelloni/)
-
 
 <hr>
 <h2 style = "color: red">Linguagens</h2>
@@ -32,6 +26,22 @@ Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![R](https://img.shields.io/badge/R-R_Lang-black?style=for-the-badge)
 ![Matlab](https://img.shields.io/badge/M-Matlab-black?style=for-the-badge)
+
+<hr>
+<h2 style = "color: red">Repositórios do GitHub</h2>
+
+## Projetos Públicos
+
+- [Repositório 1](https://github.com/devbelloni/dio-lab-open-source)
+  Um projeto desenvolvido junto com a professora e outros alunos do Bootcamp Santander 2023. 
+- [Repositório 2]([https://github.com/seu-usuario/](https://github.com/devbelloni/API_MOBI)
+  Um desafio lançado pela empresa MOBI Logística onde foi desenvolvido um API em Node.js.
+- [Repositório 3]([https://github.com/seu-usuario/](https://github.com/devbelloni/wine_machine_learning)
+  Estudos de machine leraning que envolve um modelo de aprendizado da máquina com teste de acurácia.
+- [Repositório 3]([https://github.com/seu-usuario/](https://github.com/devbelloni/data_analytics_acidentes_EUA)
+  Projeto de análise de dados que busca apresentar dados de acidentes em estradas norte-americanas. Detalhe para o pré-processamento dos dados. 
+
+  
 
 <hr>
 <h2 style = "color: red">Segue o Status no GitHub</h2>
