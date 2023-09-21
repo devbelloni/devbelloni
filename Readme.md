@@ -32,14 +32,14 @@ Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na
 
 ## Projetos Públicos
 
-- [Repositório 1](https://github.com/devbelloni/dio-lab-open-source)
-  Um projeto desenvolvido junto com a professora e outros alunos do Bootcamp Santander 2023. 
-- [Repositório 2]([https://github.com/seu-usuario/](https://github.com/devbelloni/API_MOBI)
-  Um desafio lançado pela empresa MOBI Logística onde foi desenvolvido um API em Node.js.
-- [Repositório 3]([https://github.com/seu-usuario/](https://github.com/devbelloni/wine_machine_learning)
-  Estudos de machine leraning que envolve um modelo de aprendizado da máquina com teste de acurácia.
-- [Repositório 3]([https://github.com/seu-usuario/](https://github.com/devbelloni/data_analytics_acidentes_EUA)
-  Projeto de análise de dados que busca apresentar dados de acidentes em estradas norte-americanas. Detalhe para o pré-processamento dos dados. 
+- [Estudos DIO](https://github.com/devbelloni/dio-lab-open-source)   Um projeto desenvolvido junto com a professora e outros alunos do Bootcamp Santander 2023. 
+
+- [Web Service]([https://github.com/seu-usuario/](https://github.com/devbelloni/API_MOBI)  Um desafio lançado pela empresa MOBI Logística onde foi desenvolvido um API em Node.js.
+
+- [Machine Learning (wine)]([https://github.com/seu-usuario/](https://github.com/devbelloni/wine_machine_learning)  Estudos de machine leraning que envolve um modelo de aprendizado da máquina com teste de acurácia.
+
+- [Data Analytics (EUA Accidents)]([https://github.com/seu-usuario/](https://github.com/devbelloni/data_analytics_acidentes_EUA)  Projeto de análise de dados que busca apresentar dados de acidentes em estradas norte-americanas. Detalhe para o pré-processamento dos dados. 
+
 
   
 
