@@ -1,14 +1,8 @@
- <p style="color: blue; text-align: center;font-style: italic;">"Uma paixão desde a infância tornada profissão é como viver um sonho!" 😉</p>
-
-
 # Márcio Belloni
 
 <hr>
-<div style="float: right; margin-left: 20px;">
-    <img src="./1692803119988.jfif
-" alt="Descrição da imagem" width="200">
-</div>
-## Olá, sou o Belloni. Seja bem-vindo!
+
+## Olá, sou o prof. Belloni. Seja bem-vindo!
 
 
 Sou um apaixonado pela computação desde a adolescência, mas à 6 anos venho atuando profissionalmente na área, após me formar em engenharia elétrica. 
