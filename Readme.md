@@ -4,6 +4,8 @@
 
 Sou um apaixonado pela computação desde a adolescência, mas à 6 anos venho atuando profissionalmente na área, após me formar em engenharia elétrica. 
 
+Sou professor nos cursos de engenharia e TI na Universidade de Guarulhos e no Centro Universitário Eniac. Produzo conteúdo na área do TI e eletrônica para a Unicsul, Unisa e VG Educacional. 
+
 Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na área tecnológica, formado em Engenharia Elétrica, Matemática e especialista em gestão de projetos.
 
 
