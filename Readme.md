@@ -36,10 +36,15 @@ Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na
 - [Web Service](https://github.com/devbelloni/API_MOBI)  Um desafio lançado pela empresa MOBI Logística onde foi desenvolvido um API em Node.js.
 - [Machine Learning (wine)](https://github.com/devbelloni/wine_machine_learning)  Estudos de machine leraning que envolve um modelo de aprendizado da máquina com teste de acurácia.
 - [Data Analytics (EUA Accidents)](https://github.com/devbelloni/data_analytics_acidentes_EUA)  Projeto de análise de dados que busca apresentar dados de acidentes em estradas norte-americanas. Detalhe para o pré-processamento dos dados. 
+- [Dashboards em Python](https://github.com/devbelloni/dashboard_test.git)  Projeto de análise de dados que busca apresentar alguns modelos de dashboards. 
+- [Projeto para estúdio](https://github.com/devbelloni/EstudioCompleto.git)  Uma solução desktop para consumir uma API e fornecer um controle de músicas para estúdios.
 
+## Projetos Privados
+- [CRM Services](https://github.com/devbelloni/CRMServices.git)   Desenvolvimento de um website com login e senha.
+- [Portal do aluno](https://github.com/devbelloni/Controle_Escolas_e_Alunos.git)   Um web site para controlar notas, faltas e frequência de alunos.
+- [Portal do aluno](https://github.com/devbelloni/Site_Terapeuta.git)   Um web site para serviços de terapia com login e senha do cliente para envio de mensagens protegido. O cliente não queria receber em seu e-mail as mensagens então era um requisito que elas fossem enviadas para um banco de dados. 
 
   
-
 <hr>
 <h2 style = "color: red">Segue o Status no GitHub</h2>
 
