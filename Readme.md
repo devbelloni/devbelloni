@@ -7,6 +7,15 @@ Sou professor nos cursos de engenharia e TI na Universidade de Guarulhos e no Ce
 Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na área tecnológica, formado em Engenharia Elétrica, Matemática e especialista em gestão de projetos.
 
 <hr>
+<h2 style = "color: red">Menu</h2>
+<ul>
+<li><a href = #contato> Entre em Contato</a>
+<li><a href = #linguagens> Linguagens que domino</a>
+<li><a href = #repositorios> Repositórios do GitHub</a>
+<li><a href = #status> Indicadores do GitHub</a>
+</ul>
+
+<hr>
 <h2 id = "contato" style = "color: red">Entre em contato</h2>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:mbelloni@alumni.usp.br)
@@ -15,11 +24,7 @@ Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na
 [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=0E76A8)](https://www.github.com/devbelloni/)
 
 <hr>
-<h2 style = "color: red">Menu</h2>
-<a heref = .contato> Contato</a>
-
-<hr>
-<h2 style = "color: red">Linguagens</h2>
+<h2 id = "linguagens" style = "color: red">Linguagens</h2>
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
 ![PHP](https://img.shields.io/badge/PHP-Blue?style=for-the-badge)
@@ -31,7 +36,7 @@ Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na
 ![Matlab](https://img.shields.io/badge/M-Matlab-black?style=for-the-badge)
 
 <hr>
-<h2 style = "color: red">Repositórios do GitHub</h2>
+<h2 id = "repositorios" style = "color: red">Repositórios do GitHub</h2>
 
 ## Projetos Públicos
 
@@ -49,11 +54,12 @@ Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na
 
   
 <hr>
-<h2 style = "color: red">Segue o Status no GitHub</h2>
+<h2 id = "status" style = "color: red">Segue o Status no GitHub</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devbelloni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devbelloni&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
-<h3>Repositórios</h3>
+
+## Repositórios
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devbelloni&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </body>
