@@ -9,11 +9,23 @@ Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na
 <hr>
 <h2 style = "color: red">Menu</h2>
 <ul>
-<li><a href = #contato> Entre em Contato</a>
+<li><a href = #certificados> Minhas Certificações</a>
+<li><a href = #contato> Entre em Contatontre em Contato</a>
 <li><a href = #linguagens> Linguagens que domino</a>
 <li><a href = #repositorios> Repositórios do GitHub</a>
 <li><a href = #status> Indicadores do GitHub</a>
 </ul>
+
+<hr>
+<h2 id = "certificados" style = "color: red">Certificações</h2>
+
+<a href="https://learn.microsoft.com/pt-br/users/marciobelloni-4572/credentials/abf6d4167d10cb60" target="_blank"><img src="https://static-public.pages.hotmart.com/uploads/media/file/5918377/ms-900-logo_2.png" alt="Microsoft Certified: Azure AI Fundamentals" width="100"></a><br>
+<p>Obtido em 19/12/23.</p>
+<a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=1010982" target="_blank"><img src="https://static.wixstatic.com/media/74bb6f_77877b211a674376b2f4ce706d563414~mv2.png/v1/fill/w_250,h_252,al_c,q_95,enc_auto/SFC%20-%20Scrum%20Fundamentals%20Certified.png" alt="Scrum Fundamentals Certified" width="100"></a><br>
+<p>Obtido em 19/12/23.</p>
+
+
+
 
 <hr>
 <h2 id = "contato" style = "color: red">Entre em contato</h2>
