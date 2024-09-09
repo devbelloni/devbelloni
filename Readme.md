@@ -1,10 +1,10 @@
 ## Olá, sou o prof. Belloni. Seja bem-vindo!
 <hr>
-Sou um apaixonado pela computação desde a adolescência, mas à 6 anos venho atuando profissionalmente na área, após me formar em engenharia elétrica. 
+Sou um apaixonado pela computação desde a adolescência, mas à 7 anos venho atuando profissionalmente na área, após me formar em engenharia elétrica. 
 
 Sou professor nos cursos de engenharia e TI na Universidade de Guarulhos e no Centro Universitário Eniac. Produzo conteúdo na área do TI e eletrônica para a Unicsul, Unisa e VG Educacional. 
 
-Curso MBA em Data Science na USP/Esalq. Sou Mestre em Ciências pela USP/IPEN na área tecnológica, formado em Engenharia Elétrica, Matemática e especialista em gestão de projetos.
+Formação MBA em Data Science na USP/Esalq e Mestrado em Ciências pela USP/IPEN na área tecnológica, formado em Engenharia Elétrica, Engenharia da Computação, Matemática e especialista em gestão de projetos.
 
 <hr>
 <h2 style = "color: red">Menu</h2>
