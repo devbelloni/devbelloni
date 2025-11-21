@@ -38,14 +38,14 @@ Formação em MBA em Data Science na USP/Esalq e Mestrado em Ciências pela USP/
 <hr>
 <h2 id = "linguagens" style = "color: red">Linguagens</h2>
 
-- ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python) 
-- ![PHP](https://img.shields.io/badge/PHP-Blue?style=for-the-badge)
-- ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-- ![C#](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=c#%2B%2B&logoColor=00599C)
-- ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-- ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-- ![R](https://img.shields.io/badge/R-R_Lang-black?style=for-the-badge)
-- ![Matlab](https://img.shields.io/badge/M-Matlab-black?style=for-the-badge)
+- ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python): Sênior (Machine Learning, Django, FastAPI, Flask, Streamlit)
+- ![PHP](https://img.shields.io/badge/PHP-Blue?style=for-the-badge): Pleno
+- ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C): Pleno (Embarcados ATMel e ESP)
+- ![C#](https://img.shields.io/badge/CSharp-black?style=for-the-badge&logo=c#%2B%2B&logoColor=00599C): Júnior (MVP, .NET)
+- ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5): Júnior 
+- ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4): Júnnior
+- ![R](https://img.shields.io/badge/R-R_Lang-black?style=for-the-badge): Pleno (Data Analytics)
+- ![Matlab](https://img.shields.io/badge/M-Matlab-black?style=for-the-badge): Pleno (Modelagem Matemática e Controle de Sistemas) 
 
 <hr>
 <h2 id = "repositorios" style = "color: red">Repositórios do GitHub</h2>
