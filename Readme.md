@@ -1,10 +1,10 @@
-## Olá, sou o prof. Belloni. Seja bem-vindo!
+## Olá, sou o Belloni, Cientista de Dados. Seja bem-vindo!
 <hr>
-Sou um apaixonado pela computação desde a adolescência, mas à 7 anos venho atuando profissionalmente na área, após me formar em engenharia elétrica. 
+Sou um apaixonado pela computação desde a adolescência e à 7 anos venho atuando profissionalmente na área, após me formar em engenharia elétrica. 
 
-Sou professor nos cursos de engenharia e TI na Universidade de Guarulhos e no Centro Universitário Eniac. Produzo conteúdo na área do TI e eletrônica para a Unicsul, Unisa e VG Educacional. 
+Sou professor nos cursos de engenharia e TI no Centro Universitário FAM.
 
-Formação MBA em Data Science na USP/Esalq e Mestrado em Ciências pela USP/IPEN na área tecnológica, formado em Engenharia Elétrica, Engenharia da Computação, Matemática e especialista em gestão de projetos.
+Formação em MBA em Data Science na USP/Esalq e Mestrado em Ciências pela USP/IPEN na área tecnológica, formado em Engenharia Elétrica, Engenharia da Computação, Matemática e especialista em gestão de projetos.
 
 <hr>
 <h2 style = "color: red">Menu</h2>
@@ -71,8 +71,6 @@ Formação MBA em Data Science na USP/Esalq e Mestrado em Ciências pela USP/IPE
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devbelloni&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=devbelloni&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
-## Repositórios
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devbelloni&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 </body>
 </html>
